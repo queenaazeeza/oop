@@ -37,10 +37,11 @@ Konsekuensinya: Jika lupa membuat method yang sudah dijanjikan di Interface, pro
 
 Tugas analisis 6:
 Apakah program berjalan lancar? Ya, berjalan sangat lancar.
+Keuntungan Polimorfisme: Keuntungannya adalah fleksibilitas. Programmer bisa menambah banyak karakter baru (Healer, Tank, Assassin) tanpa perlu mengubah logika Looping utama. Program secara otomatis mengenali cara setiap karakter "beraksi" sesuai dengan class-nya masing-masing.
+
+
 <img width="957" height="575" alt="image" src="https://github.com/user-attachments/assets/0bcc79c3-0d8f-42a6-a621-4738421627a1" />
 <img width="1092" height="430" alt="image" src="https://github.com/user-attachments/assets/5d924f25-134f-42d5-8c2b-2b850fb0d98e" />
 
 
 
-
-Keuntungan Polimorfisme: Keuntungannya adalah fleksibilitas. Programmer bisa menambah banyak karakter baru (Healer, Tank, Assassin) tanpa perlu mengubah logika Looping utama. Program secara otomatis mengenali cara setiap karakter "beraksi" sesuai dengan class-nya masing-masing.
